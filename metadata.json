@@ -1,0 +1,6 @@
+{
+  "name": "AutoSocial AI",
+  "description": "Automate daily social media content creation and publishing. AI generates creative captions and custom images every day, scheduling and posting them directly to Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
